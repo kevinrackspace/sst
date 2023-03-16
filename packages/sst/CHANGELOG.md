@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.1.36
+
+### Patch Changes
+
+- [`88c7c2e`](https://github.com/serverless-stack/sst/commit/88c7c2e81376830d61f43fadcd4b800955760e86) Thanks [@fwang](https://github.com/fwang)! - sst remove: update removing loading sign copy
+
 ## 2.1.35
 
 ### Patch Changes
